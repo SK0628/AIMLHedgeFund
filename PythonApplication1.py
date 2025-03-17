@@ -5,7 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # --- Configurations ---
-ALPHA_VANTAGE_API_KEY = "JO13YEMVD4ZD415D"
+ALPHA_VANTAGE_API_KEY = "Your_API_Key"
 
 # --- Fetch AI Scores (Alternative to Danelfin) ---
 def get_alpha_vantage_scores(ticker):
