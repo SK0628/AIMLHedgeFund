@@ -5,7 +5,7 @@ A hedge fund is a private investment fund which collects and combines money from
 AI Hedge fund:
 	The project works on a mechanism that has been driven by AI agents. AI agents are systems that interact with humans, or other computer systems for processing information and taking actions to achieve predetermined goals.
 
-	There are mainly 5 types of AI agents functioning in the project. The agents are:
+	There are mainly 5 types of AI agents functioning in the project. The agents are,
 1. Simple Reflex Agents – React to specific conditions using predefined rules (e.g., Technicals, Risk manager). 
 2. Model-Based Agents – Maintain an internal model of the world to make decisions (e.g., Fundamentals, Valuation). 
 3. Goal-Based Agents – Select actions based on long-term objectives (e.g., Portfolio Manager, Stanley Druckenmiller). 
