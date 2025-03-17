@@ -118,7 +118,7 @@ from sklearn.preprocessing import MinMaxScaler
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Alpha Vantage API Key (Replace 'YOUR_API_KEY' with actual key)
-ALPHA_VANTAGE_API_KEY = "JO13YEMVD4ZD415D"
+ALPHA_VANTAGE_API_KEY = "Your_API_key"
 BASE_URL = "https://www.alphavantage.co/query"
 
 # --- Get AI Score (Placeholder for Danelfin Alternative) ---
